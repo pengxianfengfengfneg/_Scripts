@@ -4,11 +4,11 @@ local LoginView = Class(game.BaseView)
 local AudioMgr = global.AudioMgr
 
 --登陆地址
-local urlLogon = "http://43.249.194.231:99/login?"
+local urlLogon = "http://120.78.87.199:99/login?"
 --注册地址
-local urlRegister = "http://43.249.194.231:99/register?"
+local urlRegister = "http://120.78.87.199:99/register?"
 --找回密码地址
-local urlSeekPass = "http://43.249.194.231:99/repwd?"
+local urlSeekPass = "http://120.78.87.199:99/repwd?"
 
 function LoginView:_init(ctrl)
 	self._package_name = "ui_login"

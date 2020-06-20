@@ -135,7 +135,7 @@ function RechargeTemplate:OnClickItem(item)
     game.RechargeView.instance:IsPayBg(true)
 
     local url
-    self.root_url = "http://43.249.194.231:81/vt/api_order.php"
+    self.root_url = "http://120.78.87.199:81/vt/api_order.php"
 
     self.server_info = game.LoginData.instance:GetGameServerInfo()
     self.role_info = game.SelectRoleView.instance:GetRoleInfo()

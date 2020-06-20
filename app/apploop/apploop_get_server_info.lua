@@ -3,15 +3,15 @@ local AppLoopGetServerInfo = Class()
 
 local secret_key = "2c41a3ddd23d1a1f711b7f37df4d515a"
 local root_url_map = {
-	["dev"] = "http://43.249.194.231:81/vt/api_active.php",
-	["zj"] = "http://43.249.194.231:81/vt/api_active.php",
-	["base"] = "http://43.249.194.231:81/vt/api_active.php",
-	["base_win"] = "http://43.249.194.231:81/vt/api_active.php",
+	["dev"] = "http://120.78.87.199:81/vt/api_active.php",
+	["zj"] = "http://120.78.87.199:81/vt/api_active.php",
+	["base"] = "http://120.78.87.199:81/vt/api_active.php",
+	["base_win"] = "http://120.78.87.199:81/vt/api_active.php",
 	--台湾
-	--["dev"] = "http://43.249.194.231/vt/api_active.php",
-	--["zj"] = "http://43.249.194.231/vt/api_active.php",
-	--["base"] = "http://43.249.194.231/vt/api_active.php",
-	--["base_win"] = "http://43.249.194.231/vt/api_active.php",
+	--["dev"] = "http://120.78.87.199/vt/api_active.php",
+	--["zj"] = "http://120.78.87.199/vt/api_active.php",
+	--["base"] = "http://120.78.87.199/vt/api_active.php",
+	--["base_win"] = "http://120.78.87.199/vt/api_active.php",
 }
 local _sdk_helper = N3DClient.SdkHelper:GetInstance()
 
