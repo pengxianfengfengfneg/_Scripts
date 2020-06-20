@@ -1,0 +1,16 @@
+config.sworn_base = {
+    open_lv = 34,
+    num_limit = 5,
+    confirm_cd1 = 30,
+    confirm_cd2 = 60,
+    sworn_value_cost = {{10000,1000}},
+    vote_cd = 30,
+    fix_word = "之",
+    sworn_word_limit = 20,
+    daily_greet_num = 10,
+    modify_name_coin_cost = 1000,
+    daily_sworn_value = 1000,
+    npc1 = 4,
+    npc2 = 5,
+    npc3 = 6,
+}

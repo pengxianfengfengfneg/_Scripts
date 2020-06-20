@@ -1,0 +1,98 @@
+config.pet_internal = {
+    [1] = {
+    	id = 1,
+	    quality = 1,
+	    material = 16270001,
+	    bt_attr = 31,
+	},
+    [2] = {
+    	id = 2,
+	    quality = 1,
+	    material = 16270002,
+	    bt_attr = 30,
+	},
+    [3] = {
+    	id = 3,
+	    quality = 1,
+	    material = 16270003,
+	    bt_attr = 32,
+	},
+    [4] = {
+    	id = 4,
+	    quality = 1,
+	    material = 16270004,
+	    bt_attr = 29,
+	},
+    [5] = {
+    	id = 5,
+	    quality = 1,
+	    material = 16270005,
+	    bt_attr = 27,
+	},
+    [6] = {
+    	id = 6,
+	    quality = 1,
+	    material = 16270006,
+	    bt_attr = 26,
+	},
+    [7] = {
+    	id = 7,
+	    quality = 1,
+	    material = 16270007,
+	    bt_attr = 28,
+	},
+    [8] = {
+    	id = 8,
+	    quality = 1,
+	    material = 16270008,
+	    bt_attr = 25,
+	},
+    [9] = {
+    	id = 9,
+	    quality = 1,
+	    material = 16270009,
+	    bt_attr = 23,
+	},
+    [10] = {
+    	id = 10,
+	    quality = 1,
+	    material = 16270010,
+	    bt_attr = 22,
+	},
+    [11] = {
+    	id = 11,
+	    quality = 1,
+	    material = 16270011,
+	    bt_attr = 24,
+	},
+    [12] = {
+    	id = 12,
+	    quality = 1,
+	    material = 16270012,
+	    bt_attr = 21,
+	},
+    [13] = {
+    	id = 13,
+	    quality = 1,
+	    material = 16270013,
+	    bt_attr = 10,
+	},
+    [14] = {
+    	id = 14,
+	    quality = 1,
+	    material = 16270014,
+	    bt_attr = 9,
+	},
+    [15] = {
+    	id = 15,
+	    quality = 1,
+	    material = 16270015,
+	    bt_attr = 11,
+	},
+    [16] = {
+    	id = 16,
+	    quality = 1,
+	    material = 16270016,
+	    bt_attr = 1,
+	},
+}

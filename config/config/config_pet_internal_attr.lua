@@ -1,0 +1,98 @@
+config.pet_internal_attr = {
+    [21] = {
+    	growup_fact = 0.0006,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.000675,
+	},
+    [22] = {
+    	growup_fact = 0.0006,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.000675,
+	},
+    [23] = {
+    	growup_fact = 0.0006,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.000675,
+	},
+    [24] = {
+    	growup_fact = 0.0006,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.000675,
+	},
+    [25] = {
+    	growup_fact = 0.00016,
+	    poten1 = 3,
+	    poten2 = 3,
+	    poten_fact = 0.0002,
+	},
+    [26] = {
+    	growup_fact = 0.00016,
+	    poten1 = 3,
+	    poten2 = 3,
+	    poten_fact = 0.0002,
+	},
+    [27] = {
+    	growup_fact = 0.00016,
+	    poten1 = 3,
+	    poten2 = 3,
+	    poten_fact = 0.0002,
+	},
+    [28] = {
+    	growup_fact = 0.00016,
+	    poten1 = 3,
+	    poten2 = 3,
+	    poten_fact = 0.0002,
+	},
+    [29] = {
+    	growup_fact = 0.00016,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.00018,
+	},
+    [30] = {
+    	growup_fact = 0.00016,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.00018,
+	},
+    [31] = {
+    	growup_fact = 0.00016,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.00018,
+	},
+    [32] = {
+    	growup_fact = 0.00016,
+	    poten1 = 1,
+	    poten2 = 2,
+	    poten_fact = 0.00018,
+	},
+    [1] = {
+    	growup_fact = 0.0448,
+	    poten1 = 3,
+	    poten2 = 3,
+	    poten_fact = 0.036,
+	},
+    [9] = {
+    	growup_fact = 0.00521,
+	    poten1 = 5,
+	    poten2 = 5,
+	    poten_fact = 0.003,
+	},
+    [10] = {
+    	growup_fact = 0.0013,
+	    poten1 = 5,
+	    poten2 = 5,
+	    poten_fact = 0.00075,
+	},
+    [11] = {
+    	growup_fact = 0.001,
+	    poten1 = 5,
+	    poten2 = 5,
+	    poten_fact = 0.00058,
+	},
+}

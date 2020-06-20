@@ -1,0 +1,43 @@
+config.team_robot = {
+	[1] = {
+		id = 1,
+		name = "喬峰",
+		level = 0,
+		gender = 1,
+		career = 1,
+		fight = 0,
+		icon = tx01,
+		frame = 0,
+	},
+	[2] = {
+		id = 2,
+		name = "段譽",
+		level = 0,
+		gender = 1,
+		career = 2,
+		fight = 0,
+		icon = tx02,
+		frame = 0,
+	},
+	[3] = {
+		id = 3,
+		name = "鐘靈兒",
+		level = 0,
+		gender = 2,
+		career = 3,
+		fight = 0,
+		icon = tx05,
+		frame = 0,
+	},
+	[4] = {
+		id = 4,
+		name = "葉二娘",
+		level = 0,
+		gender = 2,
+		career = 4,
+		fight = 0,
+		icon = tx06,
+		frame = 0,
+	},
+}
+

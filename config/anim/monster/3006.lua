@@ -1,0 +1,18 @@
+return {
+	["beattack"] = 0.8,
+	["die"] = 1.73,
+	["idle"] = 1.6,
+	["loop_skill7"] = 1,
+	["run"] = 0.8,
+	["skill1"] = 0.4,
+	["skill10"] = 0.8,
+	["skill11"] = 1.2,
+	["skill12"] = 4.73,
+	["skill2"] = 0.53,
+	["skill3"] = 0.6,
+	["skill4"] = 1.43,
+	["skill5"] = 0.73,
+	["skill6"] = 0.9,
+	["skill8"] = 0.67,
+	["skill9"] = 1,
+}

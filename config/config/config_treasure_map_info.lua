@@ -1,0 +1,15 @@
+config.treasure_map_info = {
+	name = "分金定穴",
+	open_lv = 25,
+	rare_need_num = 1,
+	nor_map_id = 16300001,
+	top_map_id = 16300201,
+	rare_map_id = 16300101,
+	box_reward = {{1,29,210101},{30,49,210102},{50,79,210103},{80,999,210104}},
+	nor_map_times = 10,
+	desc = "使用普通藏寶圖挖寶10次",
+	desc2 = "尋龍分金看纏山，壹重纏是壹沖關。在藏寶圖的指引下，通過山川龍脈走勢來尋找寶藏，可能挖到寶藏也可能遇到機關。",
+	auto_use_lv = 25,
+	box_item_id = 15010085,
+	scene_id = 71001,
+}
